@@ -22,25 +22,25 @@ Time | Agenda Item | Leaders
 ####Day 2:
 Time | Agenda Item | Leaders
 -------- | ------------- | ------------
-1 hr | Finding Data For Stories  | Eva
-1.5 hr | Finding Data on the Web  | Eva
+1 hr | 1 - [Finding Data For Stories](https://github.com/internews-ke/data-workshop/blob/master/day2/presentations/1-Finding_data_for_stories.pptx)  | Eva
+1.5 hr | 2 - [Finding Data on the Web](https://github.com/internews-ke/data-workshop/blob/master/day2/presentations/2-Finding_data_on_the_web.pptx)  | Eva
 1.5 hr | **Break**  | 
-1 hr | Cleaning Your Data  | Aggrey
+1 hr | 3 - [Cleaning Your Data](https://github.com/internews-ke/data-workshop/blob/master/day2/presentations/3-Cleaning_your_messy_data.pptx)  | Aggrey
 1 hr | **Break**  | 
-2 hr | Converting Data into Friendly Formats  | Eva/Agnes
+2 hr | 4 - [Converting Data into Friendly Formats](https://github.com/internews-ke/data-workshop/blob/master/day2/presentations/4-Converting_data.pptx)  | Eva/Agnes
 1.25 hr | **Break**  | 
-1 hr | Intro to the Data Dredger  | Dorothy
+1 hr | 5 - [Intro to the Data Dredger](https://github.com/internews-ke/data-workshop/blob/master/day2/presentations/5-Introducting_to_Data_Dredger.pptx)  | Dorothy
 ####Day 3:
 Time | Agenda Item | Leaders
 -------- | ------------- | ------------
-1 hr | Math and Statistics for Journalists  | Dorothy
+1 hr | 1 - [Math and Statistics for Journalists](https://github.com/internews-ke/data-workshop/blob/master/day3/presentations/1-Math_for_journalists.pptx)  | Dorothy
 15 min | **Break**  | 
-1.5 hr | Finding Interrelationships in Data  | Dorothy/Aggrey
-1 hr | How Data Informs my Storytelling  | Paul
+1.5 hr | 2 - [Finding Interrelationships in Data](https://github.com/internews-ke/data-workshop/blob/master/day3/presentations/2-Interrelationships.pptx)  | Dorothy/Aggrey
+1 hr | 3 - How Data Informs my Storytelling  | Paul
 1 hr | **Break**  | 
-1.25 hr | Creating Compelling Visuals  | Agnes
+1.25 hr | 4 - [Creating Compelling Visuals](https://github.com/internews-ke/data-workshop/blob/master/day3/presentations/4-Creating_Compelling_Visuals.pptx)  | Agnes
 15 min | **Break**  | 
-1.5 hr | Data Visualization for Journalism - *Visualization Assignment* | Agnes
+1.5 hr | 5 - [Data Visualization for Journalism](https://github.com/internews-ke/data-workshop/blob/master/day3/presentations/5-Visualisations_for_journalist.pptx) - *Visualization Assignment* | Agnes
 ####Day 4:Time | Agenda Item | Leaders
 -------- | ------------- | ------------
 1 hr | Review Visualization Assignment  | Agnes/Eva
