@@ -9,14 +9,14 @@ By the end of workshop participants should be able to:
 ####Day 1:
 Time | Agenda Item | Leaders
 -------- | ------------- | ------------
-1 hr | Introduction/Expectations/Survey | Dorothy/Lydia
-2.5 hr | Journalism in the age of data – Dorothy  | Dorothy
+1 hr | 1 - Introduction/Expectations/Survey | Dorothy/Lydia
+2.5 hr | 2 - Journalism in the age of data  | Dorothy
 1.5 hr | **Break**  | 
-1.5 hr | Finding stories in data  | Eva
+1.5 hr | 3 - Finding stories in data  | Eva
 1 hr | **Break**  | 
-1.5 hr | Interviewing Your Data  | Dorothy
+1.5 hr | 4 - Interviewing Your Data  | Dorothy
 15 min | **Break**  | 
-1.5 hr | Multimedia Storytelling  | Dol
+1.5 hr | 5 - Multimedia Storytelling  | Dol
 ####Day 2:
 Time | Agenda Item | Leaders
 -------- | ------------- | ------------
