@@ -6,17 +6,19 @@
 ###Objectives
 By the end of workshop participants should be able to:   
 1.	Appreciate data journalism2.	Mine, scrape and analyze data on health 3.	Use simple tools to visualize data 4.	Write a data-driven story proposal5.	Package data into simple, compelling and accessible stories.###Schedule
+This schedule reflects the more specific agenda for the workshop in May, with more generic times so it can be re-used and applied to future workshops. 
+Each Agenda Item links to a corresponding presentation and supporting materials, examples and notes can be found in each directory by day (day1, day2 ... day5).
 ####Day 1:
 Time | Agenda Item | Leaders
 -------- | ------------- | ------------
-1 hr | 1 - Introduction/Expectations/Survey | Dorothy/Lydia
+1 hr | 1 - [Introduction/Expectations/Survey](https://github.com/internews-ke/data-workshop/blob/master/day1/presentations/1-Introduction.pptx) | Dorothy/Lydia
 2.5 hr | 2 - Journalism in the age of data  | Dorothy
 1.5 hr | **Break**  | 
-1.5 hr | 3 - Finding stories in data  | Eva
+1.5 hr | 3 - [Finding stories in data](https://github.com/internews-ke/data-workshop/blob/master/day1/presentations/3-Finding_stories_in_data.pptx)  | Eva
 1 hr | **Break**  | 
-1.5 hr | 4 - Interviewing Your Data  | Dorothy
+1.5 hr | 4 - [Interviewing Your Data](https://github.com/internews-ke/data-workshop/blob/master/day1/presentations/4-Interviewing_your_data-outline.pptx)  | Dorothy
 15 min | **Break**  | 
-1.5 hr | 5 - Multimedia Storytelling  | Dol
+1.5 hr | 5 - [Multimedia Storytelling](https://github.com/internews-ke/data-workshop/blob/master/day1/exercises%2Bexamples/5-Multimedia-Storytelling_wksheet.doc)  | Dol
 ####Day 2:
 Time | Agenda Item | Leaders
 -------- | ------------- | ------------
