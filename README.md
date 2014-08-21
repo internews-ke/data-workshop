@@ -1,6 +1,5 @@
 ##data-workshop
 
-
 [curriculum] Lessons and outlines from Internews Kenya's Data Journalism Workshop (May 26-30, 2014)
 
 ###Objectives
@@ -43,19 +42,19 @@ Time | Agenda Item | Leaders
 1.5 hr | 5 - [Data Visualization for Journalism](https://github.com/internews-ke/data-workshop/blob/master/day3/presentations/5-Visualisations_for_journalist.pptx) - *Visualization Assignment* | Agnes
 ####Day 4:Time | Agenda Item | Leaders
 -------- | ------------- | ------------
-1 hr | Review Visualization Assignment  | Agnes/Eva
-1.5 hr | Creating Maps with Maps Engine  | Eva
+1 hr | 1 - Review Visualization Assignment  | Agnes/Eva
+1.5 hr | 2 - [Creating Maps with Maps Engine](https://github.com/internews-ke/data-workshop/blob/master/day4/presentations/2-Mapping.pptx) | Eva
 1.5 hr | **Break**  | 
-2.5 hr | Long–form, multimedia storytelling (part one) *Exercises + Discussion*  | Dorothy/Eva
+2.5 hr | 3 - [Long–form, multimedia storytelling (part one)](https://github.com/internews-ke/data-workshop/blob/master/day4/presentations/3-5-Long-form_Storytelling_PartI%262.pptx) *Exercises + Discussion*  | Dorothy/Eva
 1 hr | **Break**  | 
-1.5 hr | Interpreting quantitative research results:  distinguishing good research from bad   | Suleiman
+1.5 hr | 4 - Interpreting quantitative research results:  distinguishing good research from bad   | Suleiman
 15 min | **Break**  | 
-1.5 hr | Long–form, multimedia storytelling (part two)  | Dorothy
+1.5 hr | 5 - [Long–form, multimedia storytelling (part two)](https://github.com/internews-ke/data-workshop/blob/master/day4/presentations/3-5-Long-form_Storytelling_PartI%262.pptx)  | Dorothy
 ####Day 5:Time | Agenda Item | Leaders
 -------- | ------------- | ------------
 1.5 hr | Recap  | All
 1.5 hr | **Break**  | 
-2.5 hr | Data Expedition  | Eva/Dorothy/Agnes
+2.5 hr | 2 - [Data Expedition](https://github.com/internews-ke/data-workshop/blob/master/day5/presentations/2-migration-analysis.ppt)  | Eva/Dorothy/Agnes
 15 min | Evaluation  | 
 
 ###Facilitators
